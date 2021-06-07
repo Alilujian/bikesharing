@@ -9,6 +9,8 @@ This project created an analysis for New York's Citi Bike program, using over 20
 
 ## Result
 
+![Module](Resources/Module.png)
+![Challenge](Resources/Challenge.png)
 
 * Click [here](https://public.tableau.com/views/CitiBike_challenge/CitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link) for the complete Dashboard
 
